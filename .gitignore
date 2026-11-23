@@ -1,0 +1,9 @@
+# macOS 부산물. git-watcher가 이 레포를 자동 push하므로 추적하지 않는다.
+.DS_Store
+.localized
+
+# Python 실행 부산물
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
